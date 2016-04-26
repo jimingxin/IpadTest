@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "71EB5DC088143EB872DFBA54D7E934BBF2494EE8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "71EB5DC088143EB872DFBA54D7E934BBF2494EE8" : 0,
+    "E2496C5408A04D2A2327EFCDB7A1876C58A7B4E7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E5212F28-C052-4F99-A6AC-201F2F911749",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "71EB5DC088143EB872DFBA54D7E934BBF2494EE8" : "IpadTest\/",
+    "E2496C5408A04D2A2327EFCDB7A1876C58A7B4E7" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "IpadTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IpadTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jimingxin\/IpadTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71EB5DC088143EB872DFBA54D7E934BBF2494EE8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jimingxin\/Test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2496C5408A04D2A2327EFCDB7A1876C58A7B4E7"
+    }
+  ]
+}

@@ -15,8 +15,14 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    [self sayHello];
+    
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+}
+
+-(void)sayHello{
+    NSLog(@"Hello");
 }
 
 - (void)didReceiveMemoryWarning {
